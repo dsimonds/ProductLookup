@@ -1,0 +1,15 @@
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\obj\Debug\ProductLookUp.csprojAssemblyReference.cache
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\obj\Debug\ProductLookUp.Form1.resources
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\obj\Debug\ProductLookUp.Properties.Resources.resources
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\obj\Debug\ProductLookUp.csproj.GenerateResource.cache
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\obj\Debug\ProductLookUp.csproj.CoreCompileInputs.cache
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\bin\Debug\ProductLookUp.exe.config
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\bin\Debug\ProductLookUp.exe
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\bin\Debug\ProductLookUp.pdb
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\bin\Debug\EntityFramework.dll
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\bin\Debug\EntityFramework.xml
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\obj\Debug\ProductLookUp.csproj.CopyComplete
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\obj\Debug\ProductLookUp.exe
+C:\Users\dsimonds\source\repos\ProductLookUp\ProductLookUp\obj\Debug\ProductLookUp.pdb
